@@ -1,6 +1,7 @@
 # POLICY EVALUATION
-### NAME : ADHITHYA M R
-### REG.NO. 212222240002
+### Developed by: NARENDRAN B
+### RegisterNumber: 212222240069
+
 ## AIM
 To evaluate and compare different policies in the Frozen Lake environment and find the best policy for reaching the goal successfully.
 
